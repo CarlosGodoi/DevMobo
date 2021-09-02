@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Splash</string>
+    <string name="textoSplash" translatable="false">Bem Vindo!</string>
+    <string name="textoLogin" translatable="false">Login</string>
+    <string name="Mail" translatable="false">E-mail</string>
+    <string name="button" translatable="false">Entrar</string>
+    <string name="cadastro" translatable="false">Cadastre-se</string>
+    <string name="buttonCadastro" translatable="false">Salvar</string>
+    <string name="name" translatable="false">Nome</string>
+    <string name="mail" translatable="false">E-mail</string>
+    <string name="cpf" translatable="false">CPF</string>
+    <string name="campoSenha" translatable="false">Senha</string>
+</resources>
